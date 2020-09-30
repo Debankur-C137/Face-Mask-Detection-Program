@@ -117,5 +117,5 @@ Made by [Debankur Ghosh](https://github.com/Debankur-C137)
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
-## :eyes: License
+## License
 MIT © 
