@@ -52,11 +52,11 @@ The images used were real images of faces wearing masks. The images were collect
 * __Kaggle datasets__ 
 * __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
 
-## :key: Prerequisites
+## Prerequisites
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
-## 🚀&nbsp; Installation
+## Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
@@ -72,7 +72,7 @@ $ mkvirtualenv test
 $ pip3 install -r requirements.txt
 ```
 
-## :bulb: Working
+## Working
 
 1. Open terminal. Go into the cloned project directory folder and type the following command:
 ```
@@ -88,7 +88,7 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 $ python3 detect_mask_video.py 
 ```
-## :key: Results
+## Results
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
@@ -105,21 +105,8 @@ command
 ```
 $ streamlit run app.py 
 ```
-## Images
 
-<p align="center">
-  <img src="Readme_images/1.PNG">
-</p>
-<p align="center">Upload Images</p>
 
-<p align="center">
-  <img src="Readme_images/2.PNG">
-</p>
-<p align="center">Results</p>
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
 
 
 
