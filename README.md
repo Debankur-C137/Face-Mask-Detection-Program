@@ -43,7 +43,7 @@ This dataset consists of __3835 images__ belonging to two classes:
 *	__without_mask: 1919 images__
 
 
-The dataset is propriotery. Please email me at ghosh_deb@hotmail.com to gain access to it.
+The dataset is proprietary. Please email me at ghosh_deb@hotmail.com to gain access to it.
 
 ## Prerequisites
 
