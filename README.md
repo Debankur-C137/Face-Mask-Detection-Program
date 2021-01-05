@@ -17,7 +17,7 @@
 
  
 ## Project Demo
-[Demo Link](https://www.youtube.com/watch?v=m-MlgJ-__y8)
+[Demo Link](https://github.com/debankur-ghosh/Face-Mask-Detection-Program/blob/master/Demo.mov)
 
 
 
@@ -41,6 +41,8 @@ This system can therefore be used in real-time applications which require face-m
 This dataset consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
 *	__without_mask: 1919 images__
+
+
 The dataset is propriotery. Please email me at ghosh_deb@hotmail.com to gain access to it.
 
 ## Prerequisites
@@ -49,7 +51,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## How to run
 1. Clone the repo
 ```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ git clone https://github.com/debankur-ghosh/Face-Mask-Detection-Program
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
@@ -73,18 +75,18 @@ $ python3 detect_mask_video.py
 ```
 ## Results
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](https://github.com/debankur-ghosh/Face-Mask-Detection-Program/blob/master/result1.JPG)
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](https://github.com/debankur-ghosh/Face-Mask-Detection-Program/blob/master/result2.JPG)
 
 #### The model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+
 
 ps: use only tensorflow==2.0.0 if you do not have a dedicated GPU
 
 #### I got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
+
 
 
 
